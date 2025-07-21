@@ -1,0 +1,32 @@
+<!Doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Chocolate Muffins Recipe</title>
+  </head>
+  <Body>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="Image Of Three Eggs And A Whisker On The Table">
+    <h1>Chocolate Muffins Recipe</h1>
+    <p>Delicious Oven Baked Chocolate Muffins Recipe For Your Family And Guests</p>
+    <h2>Ingredients</h2>
+    <ul>
+      <li>1kg Sifted Self Raising Flour</li>
+      <li>500g Melted Margarine</li>
+      <li>24 Slabs Chocolate Melted </li>
+      <li>100g Sugar</li>
+      <li>1 Table Spoon Salt</li>
+      <li>500ml Milk</li>
+      <li>100g Chocolate Powder</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>In A Large Bowl Mix All Dry Ingredients </li>
+      <li>Then In Another Bowl Mix Margarine, Milk And Melted Chocolate </li>
+      <li>Take The Margarine Mixture And Add To The Dry Mixture,Mix With A Large Wooden Spoon Until Consistent</li>
+      <li>Grease The Muffins Pans,Then Pour Your Mixture Inside The Pans</li>
+        <li>Bake For 30 Minutes On A 180g Oven,Enjoy With Your Favorite Drink🧁</> 
+    </ol>
+
+    
+  </body>
+  </html>
